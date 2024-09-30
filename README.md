@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aditya Bhatia!
-- 👀 exploring and learning new everyday.
-- 🌱 FRONTEND DEVELOPER | DSA ENTHUSIAST | DevOps Learner.
+- 👀 exploring and learning new everyday
+- 🌱 FULL STACK DEVELOPER | DSA ENTHUSIAST | DevOps Learner | MERN
 - 📫 How to reach me: https://www.linkedin.com/in/aahhditya/
 
 <!---
