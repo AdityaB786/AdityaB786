@@ -2,7 +2,8 @@
 <h3 align="center">MERN Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityab786&label=Profile%20views&color=0e75b6&style=flat" alt="adityab786" /> </p>
-https://www.deviantart.com/pixeljeff/art/Coding-990517671
+
+<img src="https://www.deviantart.com/pixeljeff/art/Coding-990517671">
 
 - 📫 How to reach me **https://www.linkedin.com/in/aahhditya/**
 
