@@ -3,8 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityab786&label=Profile%20views&color=0e75b6&style=flat" alt="adityab786" /> </p>
 
-<img src="https://www.deviantart.com/pixeljeff/art/Coding-990517671">
-
+<img src="https://img.freepik.com/free-photo/person-playing-3d-video-games-device_23-2151005751.jpg?t=st=1727724727~exp=1727728327~hmac=5484aab9fe689dd825d1ddef1d6d13dcea0ea7b1604eaca63786c6da2a21a46a&w=1800">
 - 📫 How to reach me **https://www.linkedin.com/in/aahhditya/**
 
 <h3 align="left">Connect with me:</h3>
