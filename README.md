@@ -17,9 +17,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/>
   </a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/> 
-  </a><a href="https://pptr.dev/" target="_blank" rel="noreferrer">
-  <img src="https://user-images.githubusercontent.com/30555531/103676025-5c6cfb00-4fa9-11eb-9769-3b5366008b2c.png" alt="Puppeteer" width="40" height="40"/>
-</a>
+  
   <a href="https://redux.js.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/>
   </a></p>
